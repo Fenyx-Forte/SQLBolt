@@ -1,0 +1,1 @@
+Minhas soluções dos exercícios de SQL do site SQLBolt (https://sqlbolt.com/)

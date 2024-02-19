@@ -4,3 +4,10 @@ CREATE TABLE IF NOT EXISTS database(
     version FLOAT,
     download_count INTEGER
 );
+
+-- New
+create table if not exists database(
+    name text,
+    version float,
+    download_count integer
+)

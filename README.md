@@ -1,1 +1,1 @@
-Minhas soluções dos exercícios de SQL do site SQLBolt (https://sqlbolt.com/)
+Saiba mais em meu [Portfólio](https://fenyx-forte.github.io/sqlbolt.html)
